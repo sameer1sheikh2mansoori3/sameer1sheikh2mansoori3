@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&center=true&vCenter=true&random=true&width=435&lines=full+stack+developer;problem+solver;freelancer" alt="Typing SVG" />
   </a>
-  <p>A passionate software developer keen on web development and software technologies. Always striving to improve my skills and work on innovative projects. Welcome to my coding world!</p>
+  <p>A passionate software developer keen on web development and software technologies. I always striving to improve my skills and work on innovative projects. Welcome to my coding world!</p>
 </div>
 
 ---
@@ -19,8 +19,6 @@
   <table>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50"/></td>
-    </tr>
-    <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/></td>
     </tr>
@@ -29,8 +27,14 @@
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/></td>
     </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="50" height="50"/></td>
+    </tr>
   </table>
 </div>
+
 
 ---
 
