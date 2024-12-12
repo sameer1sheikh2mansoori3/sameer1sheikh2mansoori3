@@ -1,40 +1,40 @@
-# 🕌 **السلام عليكم! Welcome to My GitHub Profile**  
+# 🖥️ **Welcome to My Linux-Themed GitHub Profile**  
 
-## 🌟 **About Me**  
-أنا سمير شيخ منصوري، مطور برمجيات يتمتع بشغف كبير بتطوير الويب وتكنولوجيا البرمجيات. أسعى دائمًا لتحسين مهاراتي والعمل على مشاريع مبتكرة. أهلاً بك في عالمي البرمجي!  
+## 💾 **About Me**  
+I am Sameer Sheikh Mansoori, a passionate software developer keen on web development and software technologies. Always striving to improve my skills and work on innovative projects. Welcome to my coding world!  
 
 ---
 
-## 💻 **التقنيات التي أستخدمها**  
+## 💻 **Technologies I Use**  
 
 ### **Frontend & Backend:**  
-- ⚛️ React.js, Next.js, TypeScript  
+- 💡 React.js, Next.js, TypeScript  
 - 🖥️ Node.js, Express.js  
 - 🐍 Python, FastAPI  
 - 🗄️ SQL, PostgreSQL, Prisma ORM  
-- 🌐 Serverless Backend Frameworks مثل Hono.js  
+- 🌐 Serverless Backend Frameworks like Hono.js  
 
 ### **Data & Visualization:**  
 - 📊 Power BI  
-- 💻 C++
+- 💻 C++  
 
 ---
 
-## 📸 **مشاريع حية ولقطات الشاشة**  
+## 🖼️ **Live Projects & Screenshots**  
 ![Project Demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
 
 ---
 
-## 📫 **تواصل معي**  
-- **📧 البريد الإلكتروني:** sameersheikhmansoori@gmail.com  
+## 📫 **Contact Me**  
+- **📧 Email:** sameersheikhmansoori@gmail.com  
 - **💼 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sameer-sheikh-mansoori)  
-- **🌐 الموقع الشخصي:** [عرض المشاريع الحية](https://showoffsameer.netlify.app/)  
+- **🌐 Portfolio:** [Live Projects Showcase](https://showoffsameer.netlify.app/)  
 
 ---
 
-## 📈 **إحصائيات GitHub الخاصة بي**  
+## 📈 **My GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer1sheikh2mansoori3&show_icons=true&theme=radical)  
 
 ---
 
-**شكراً لزيارتك! أتطلع إلى التعاون والعمل على مشاريع رائعة معًا. 🚀**
+**Thanks for visiting! Looking forward to collaborating on amazing projects. 🚀**
