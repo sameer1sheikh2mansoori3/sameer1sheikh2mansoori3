@@ -13,7 +13,7 @@
 
 ## 💻 Technologies I Use  
 
-### Tech Stack 🚀
+
 
 <div align="center">
   <table>
@@ -55,11 +55,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer1sheikh2mansoori3&show_icons=true&theme=radical)  
 
-# Welcome to My GitHub Profile
 
-Check out this cool snake animation below! 🐍
-
-![snake animation](https://github.com/sameer1sheikh2mansoori3/sameer1sheikh2mansoori3/blob/main/snake.svg)
 
 
 ---
