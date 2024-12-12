@@ -64,7 +64,7 @@
 
 ![Statistics](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer1sheikh2mansoori3&show_icons=true&theme=radical)  
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1sheikh2mansoori3&layout=compact&theme=dark)
 
 
 
