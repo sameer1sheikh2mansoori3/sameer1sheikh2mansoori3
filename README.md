@@ -65,7 +65,19 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer1sheikh2mansoori3&show_icons=true&theme=radical)  
 
+## 🚀 Coding Heatmap
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/sameer1sheikh2mansoori3/40a529cf-1471-4bf4-94ed-76ef51816aa1.png" /></a>
 
+<br>
+
+## 📈 GitHub Stats 
+[![Sameer’s github stats](https://github-readme-stats.vercel.app/api?username=sameer1sheikh2mansoori3&show_icons=true&theme=dark&count_private=true)](https://github.com/importlogic)
+
+<br>
+
+## 👀 Visitors
+<!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
+![Visitors](https://moe-counter.glitch.me/get/@sameer1sheikh2mansoori3?theme=rule34)
 
 
 ---
