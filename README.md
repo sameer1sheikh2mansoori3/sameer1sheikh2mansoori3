@@ -60,8 +60,8 @@
 
 ---
 
-## 📈 My GitHub Stats  
-![Statistics](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif)  
+## ![Statistics](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif)   My GitHub Stats  
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer1sheikh2mansoori3&show_icons=true&theme=radical)  
 
