@@ -44,50 +44,14 @@
 
 ---
 
-## 🌐 **Demo**
 
-Check out the **Serverless Workflow** with **Hono.js** in action:  
-<div align="center">
-  <img src="https://your-gif-link-here.gif" alt="Serverless Workflow Demo" />
-</div>
+
 
 ---
 
-## 🛠️ **Getting Started**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
-
----
-
-### Demo 🌐
-
-Check out the **Serverless Workflow** with **Hono.js** in action:  
-![Serverless Workflow Demo](https://your-gif-link-here.gif)
-
----
-
-### Getting Started 🛠️
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
 
 
-### **Frontend & Backend:**  
-```
 
-```
-
-### **Data & Visualization:**  
-```
-                ![Power BI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg)
-```
-
----
 
 ## 🖼️ **Live Projects & Screenshots**  
 - [Live Dating Application](https://live-dating-application.onrender.com/)  
