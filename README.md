@@ -1,22 +1,28 @@
-# 🖥️ **Welcome to My Linux-Themed GitHub Profile**  
+# 🖥️ **Welcome to My Modern GitHub Profile**  
 
 ## 💾 **About Me**  
-I am Sameer Sheikh Mansoori, a passionate software developer keen on web development and software technologies. Always striving to improve my skills and work on innovative projects. Welcome to my coding world!  
+I am Sameer Sheikh Mansoori  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&center=true&vCenter=true&random=true&width=435&lines=full+stack+developer;problem+solver;freelancer)](https://git.io/typing-svg)  
+
+A passionate software developer keen on web development and software technologies. Always striving to improve my skills and work on innovative projects. Welcome to my coding world!  
 
 ---
 
 ## 💻 **Technologies I Use**  
 
 ### **Frontend & Backend:**  
-- 💡 React.js, Next.js, TypeScript  
-- 🖥️ Node.js, Express.js  
-- 🐍 Python, FastAPI  
-- 🗄️ SQL, PostgreSQL, Prisma ORM  
-- 🌐 Serverless Backend Frameworks like Hono.js  
+```
+                TypeScript
+            Next.js   React.js
+        Express.js   Node.js   Python
+    SQL    PostgreSQL   FastAPI   C++
+Prisma ORM    Hono.js    Serverless
+```
 
 ### **Data & Visualization:**  
-- 📊 Power BI  
-- 💻 C++  
+```
+                Power BI
+```
 
 ---
 
