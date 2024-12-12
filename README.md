@@ -71,7 +71,7 @@
 <br>
 
 ## 📈 GitHub Stats 
-[![Sameer’s github stats](https://github-readme-stats.vercel.app/api?username=sameer1sheikh2mansoori3&show_icons=true&theme=dark&count_private=true)](https://github.com/importlogic)
+[![Sameer’s github stats](https://github-readme-stats.vercel.app/api?username=sameer1sheikh2mansoori3&show_icons=true&theme=dark&count_private=true)](https://github.com/sameer1sheikh2mansoori3)
 
 <br>
 
