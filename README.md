@@ -11,7 +11,7 @@
 
 ---
 
-## 💻 Technologies I Use  
+
 
 
 
