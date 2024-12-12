@@ -55,7 +55,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer1sheikh2mansoori3&show_icons=true&theme=radical)  
 
-![Snake Animation](https://github.com/sameer1sheikh2mansoori3/snake-game/raw/main/snake.svg)
+# Welcome to My GitHub Profile
+
+Check out this cool snake animation below! 🐍
+
+![snake animation](https://github.com/sameer1sheikh2mansoori3/sameer1sheikh2mansoori3/blob/main/snake.svg)
+
 
 ---
 
