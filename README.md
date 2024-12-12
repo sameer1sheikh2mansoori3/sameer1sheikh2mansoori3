@@ -21,6 +21,10 @@ I am Sameer Sheikh Mansoori, a passionate software developer keen on web develop
 ---
 
 ## 🖼️ **Live Projects & Screenshots**  
+- [Live Dating Application](https://live-dating-application.onrender.com/){:target="_blank"}  
+- [Ekak Innovation](https://ekak-innovation-2.vercel.app/){:target="_blank"}  
+- [Login Portal](https://tubular-bavarois-a8c7fc.netlify.app/login){:target="_blank"}  
+
 ![Project Demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
 
 ---
@@ -28,7 +32,7 @@ I am Sameer Sheikh Mansoori, a passionate software developer keen on web develop
 ## 📫 **Contact Me**  
 - **📧 Email:** sameersheikhmansoori@gmail.com  
 - **💼 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sameer-sheikh-mansoori)  
-- **🌐 Portfolio:** [Live Projects Showcase](https://showoffsameer.netlify.app/)  
+- **🌐 Portfolio:** [Live Projects Showcase](https://showoffsameer.netlify.app/){:target="_blank"}  
 
 ---
 
