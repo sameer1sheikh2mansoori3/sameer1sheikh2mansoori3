@@ -15,26 +15,29 @@
 
 ### Tech Stack 🚀
 
-#### Frontend
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
-</div>
-
-#### Backend
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ## 🖼️ Live Projects & Screenshots  
-- [Live Dating Application](https://live-dating-application.onrender.com/)  
-- [Ekak Innovation](https://ekak-innovation-2.vercel.app/)  
-- [Login Portal](https://tubular-bavarois-a8c7fc.netlify.app/login)  
+- [Live Dating Application](https://live-dating-application.onrender.com/) - A platform connecting like-minded people.
+- [Ekak Innovation](https://ekak-innovation-2.vercel.app/) - Innovative tech-based solutions.
+- [Login Portal](https://tubular-bavarois-a8c7fc.netlify.app/login) - Secure login system with modern UI.
 
 ![Project Demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
 
@@ -51,6 +54,8 @@
 ![Statistics](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer1sheikh2mansoori3&show_icons=true&theme=radical)  
+
+![Snake Animation](https://github.com/sameer1sheikh2mansoori3/snake-game/raw/main/snake.svg)
 
 ---
 
