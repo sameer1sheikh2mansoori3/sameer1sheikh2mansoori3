@@ -56,7 +56,7 @@
 ## 📫 Contact Me  
 - **📧 Email:** sameersheikhmansoori@gmail.com  
 - **💼 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sameer-sheikh-mansoori)  
-- **🌐 Portfolio:** [Live Projects Showcase](https://showoffsameer.netlify.app/)  
+- **🌐 Portfolio:** [Live Projects Showcase](https://sameerportfolio-three.vercel.app/)  
 
 ---
 
