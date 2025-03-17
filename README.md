@@ -6,14 +6,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&center=true&vCenter=true&random=true&width=435&lines=full+stack+developer;problem+solver;freelancer" alt="Typing SVG" />
   </a>
-  <p>A passionate software developer keen on web development and software technologies. I always striving to improve my skills and work on innovative projects. Welcome to my coding world!</p>
+  <p>A passionate software developer keen on web development and software technologies. I always strive to improve my skills and work on innovative projects. Welcome to my coding world!</p>
 </div>
 
 ---
-
-
-
-
 
 ## 💼 Technical Skills
 
@@ -41,6 +37,19 @@
   </a>
 </p>
 
+---
+
+## 👨‍💻 Experience
+
+### **APIC Hospital**  
+- **Role:** Intern  
+- **Duration:** January 2023 - February 2023 (2 months)  
+- **Description:** Worked on developing and maintaining internal systems, gaining hands-on experience in software development and problem-solving in a healthcare environment.
+
+### **Addverb Technologies**  
+- **Role:** Software Developer Intern  
+- **Duration:** [Add Duration Here]  
+- **Description:** Contributed to the development of innovative software solutions, focusing on automation and robotics technologies. Collaborated with cross-functional teams to deliver high-quality projects.
 
 ---
 
@@ -66,15 +75,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer1sheikh2mansoori3&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1sheikh2mansoori3&layout=compact&theme=dark)
 
-
-
 <br>
 
 ## 👀 Visitors
 <!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
 ![Visitors](https://moe-counter.glitch.me/get/@sameer1sheikh2mansoori3?theme=rule34)
 
-
 ---
 
-**Thanks for visiting! Looking forward to collaborating on amazing projects. 🚀**
+**Thanks for visiting! I am looking forward to collaborating on amazing projects. 🚀**
