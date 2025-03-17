@@ -21,8 +21,8 @@
 
 
 ### **APIC Hospital**  
-- **Role:** Intern  
-- **Duration:** January 2023 - February 2023 (2 months)  
+- **Role:** Full Stack Developer Intern  
+- **Duration:** January 2025 - February 2025 (2 months)  
 - **Description:** Worked on developing and maintaining internal systems, gaining hands-on experience in software development and problem-solving in a healthcare environment.
 
 
