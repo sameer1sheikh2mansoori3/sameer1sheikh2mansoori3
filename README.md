@@ -41,15 +41,18 @@
 
 ## 👨‍💻 Experience
 
+
+### **Addverb Technologies**  
+- **Role:** Graduate Engineer Trainee  
+- **Duration:** March 2025 
+- **Description:** Contributed to developing innovative software solutions, focusing on automation and robotics technologies. Collaborated with cross-functional teams to deliver high-quality projects.
+
+
 ### **APIC Hospital**  
 - **Role:** Intern  
 - **Duration:** January 2023 - February 2023 (2 months)  
 - **Description:** Worked on developing and maintaining internal systems, gaining hands-on experience in software development and problem-solving in a healthcare environment.
 
-### **Addverb Technologies**  
-- **Role:** Software Developer Intern  
-- **Duration:** [Add Duration Here]  
-- **Description:** Contributed to the development of innovative software solutions, focusing on automation and robotics technologies. Collaborated with cross-functional teams to deliver high-quality projects.
 
 ---
 
