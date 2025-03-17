@@ -9,6 +9,25 @@
   <p>A passionate software developer keen on web development and software technologies. I always strive to improve my skills and work on innovative projects. Welcome to my coding world!</p>
 </div>
 
+
+
+## 👨‍💻 Experience
+
+
+### **Addverb Technologies**  
+- **Role:** Graduate Engineer Trainee  
+- **Duration:** March 2025 
+- **Description:** Contributed to developing innovative software solutions, focusing on automation and robotics technologies. Collaborated with cross-functional teams to deliver high-quality projects.
+
+
+### **APIC Hospital**  
+- **Role:** Intern  
+- **Duration:** January 2023 - February 2023 (2 months)  
+- **Description:** Worked on developing and maintaining internal systems, gaining hands-on experience in software development and problem-solving in a healthcare environment.
+
+
+---
+
 ---
 
 ## 💼 Technical Skills
@@ -36,23 +55,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,vercel,atom,vscode,visualstudio" />
   </a>
 </p>
-
----
-
-## 👨‍💻 Experience
-
-
-### **Addverb Technologies**  
-- **Role:** Graduate Engineer Trainee  
-- **Duration:** March 2025 
-- **Description:** Contributed to developing innovative software solutions, focusing on automation and robotics technologies. Collaborated with cross-functional teams to deliver high-quality projects.
-
-
-### **APIC Hospital**  
-- **Role:** Intern  
-- **Duration:** January 2023 - February 2023 (2 months)  
-- **Description:** Worked on developing and maintaining internal systems, gaining hands-on experience in software development and problem-solving in a healthcare environment.
-
 
 ---
 
